@@ -1,2 +1,2 @@
 # osworks-api
-Curso Spring Rest AlgaWorks
+Curso Spring Rest API - AlgaWorks
